@@ -1,0 +1,15 @@
+D:\MSTest\MSTestProject\MSTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\MSTest\MSTestProject\MSTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\MSTest\MSTestProject\MSTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\MSTest\MSTestProject\MSTestProject\bin\Debug\MSTestProject.dll
+D:\MSTest\MSTestProject\MSTestProject\bin\Debug\MSTestProject.pdb
+D:\MSTest\MSTestProject\MSTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\MSTest\MSTestProject\MSTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\MSTest\MSTestProject\MSTestProject\bin\Debug\WebDriver.dll
+D:\MSTest\MSTestProject\MSTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\MSTest\MSTestProject\MSTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\MSTest\MSTestProject\MSTestProject\bin\Debug\WebDriver.xml
+D:\MSTest\MSTestProject\MSTestProject\obj\Debug\MSTestProject.csproj.CoreCompileInputs.cache
+D:\MSTest\MSTestProject\MSTestProject\obj\Debug\MSTestProject.csproj.CopyComplete
+D:\MSTest\MSTestProject\MSTestProject\obj\Debug\MSTestProject.dll
+D:\MSTest\MSTestProject\MSTestProject\obj\Debug\MSTestProject.pdb
